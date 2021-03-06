@@ -6,6 +6,6 @@ public class Test6 {
         System.out.println("diff");
         System.out.println("ddd:");
         System.out.println("git add");
-        System.out.println("fdfdf");
+        System.out.println("fdfdfgit");
     }
 }
