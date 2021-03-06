@@ -1,4 +1,4 @@
 package com.zxj.test;
 
-public class Test {
+public class Test1 {
 }
